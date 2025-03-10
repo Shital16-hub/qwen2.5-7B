@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+torch
+transformers
+accelerate
+git+https://github.com/huggingface/transformers
+qwen-vl-utils[decord]==0.0.8
+pillow
